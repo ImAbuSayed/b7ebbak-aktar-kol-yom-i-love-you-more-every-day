@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار الشوق في قلبي بتناديك
+> في كل ليلة الروح بتسأل فيك
+> نظرة عيونك تسحرني وتخليني
+> أذوب في غرامك وأنت تدفيني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
